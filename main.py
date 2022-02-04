@@ -31,7 +31,7 @@ RED_BLUE_KEYBOARD = InlineKeyboardMarkup([[
 print("=" * 25)
 print("Conversational Games Bot")
 print("=" * 25)
-print("1.0.0 | Release | By Feri", '\n')
+print("1.0.0 | Release | By XFlick", '\n')
 
 ## Functions.
 def parse_list_file(file_path: str) -> list:
