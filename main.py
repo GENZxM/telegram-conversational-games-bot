@@ -29,7 +29,7 @@ RED_BLUE_KEYBOARD = InlineKeyboardMarkup([[
 
 ## Info.
 print("=" * 25)
-print("Conversational Games Bot")
+print("Geexzbot")
 print("=" * 25)
 print("1.0.0 | Release | By XFlick", '\n')
 
